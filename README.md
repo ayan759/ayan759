@@ -25,19 +25,35 @@ I'm a Computer Science student based in Calgary, Alberta, interested in **Softwa
 
 ---
 
+## 🌐 Portfolio
+
+Check out my personal portfolio website to see my projects, experience, and more:
+
+🔗 **Website:** [ayan-warriach.vercel.app](https://ayan-warriach.vercel.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ayan--warriach.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayan-warriach.vercel.app/)
+
+---
+
 ## 📌 Featured Projects
 
 ### 🧠 ThinkFlow
-A collaborative project created for **Calgary Hacks 2026**, focused on building a useful and intuitive software experience with a team.
+A full-stack AI productivity web app built for **Calgary Hacks 2026** that helps users visually organize tasks, deadlines, and priorities in one interactive workflow system. It includes task visualization, project tracking, calendar scheduling, and AI-assisted planning, with Google OAuth through Supabase for secure multi-user accounts.
 
 **Tech:** TypeScript  
 **Repository:** [ThinkFlow](https://github.com/ZeengFong/ThinkFlow)
 
 ### 🎮 JoinAGame
-A web project for helping users **join or host games** such as pickleball, table tennis, handball, and more.
+A full-stack web app built at **MRUHacks 2025** that helps users discover, **host, and join local games** for niche sports like pickleball, table tennis, and handball. It features map-based location selection, structured game listings, and a responsive, animated React interface.
 
 **Tech:** JavaScript  
 **Repository:** [JoinAGame](https://github.com/BilalA5/mruhacks25-joinagame)
+
+### 📐 Bevel
+Built at **MRUHacks 2026**, Bevel lets engineers sketch a part on an iPad with an Apple Pencil and watch a real 3D CAD model get built live as they draw. Strokes snap to clean lines, arcs, and circles, and you can add real engineering features like dimensions, extrudes, holes, and fillets. A Python backend rebuilds the solid in about 6–30 ms per change, shows it live in FreeCAD, and exports to STL, 3MF, or STEP in one tap.
+
+**Tech:** JavaScript, React, Python, FastAPI, CadQuery, FreeCAD  
+**Repository:** [Bevel](https://github.com/BilalA5/MRUHacks2026)
 
 ---
 
